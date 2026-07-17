@@ -1,1 +1,1 @@
-Тренируюсь командам
+Hello, Hexlet! How are you?
